@@ -1,1 +1,4 @@
 nbconvert[webpdf]
+pandas
+scikit-learn
+seaborn
